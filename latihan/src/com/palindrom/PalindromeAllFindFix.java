@@ -1,7 +1,6 @@
 package com.palindrom;
 
 import java.util.Scanner;
-
 public class PalindromeAllFindFix {
 
     public static void printPalindromes(String s) {

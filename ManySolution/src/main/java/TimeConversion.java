@@ -2,7 +2,7 @@ import java.text.ParseException;
 
 public class TimeConversion {
     public static void main(String[] args) throws ParseException {
-        result("07:18:09PM");
+        result("11:18:09PM");
     }
 
 

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Anagrams {
+public class    Anagrams {
 
     static boolean isAnagram(String string1, String string2){
         string1 = string1.toUpperCase();
